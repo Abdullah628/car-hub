@@ -26,7 +26,7 @@ const Hero = () => {
         </p>
 
         <CustomButton
-          title="Explore Cars"
+          title="Explore Carss"
           containerStyles="bg-primary-blue text-white rounded-full mt-10"
           handleClick={handleScroll}
         />
